@@ -11,7 +11,7 @@ export default function Header() {
         <nav>
           <Link href="/">Home</Link>
           <a href="#products">Products</a>
-          <a href="https://www.facebook.com/rukshgadgets" target="_blank" rel="noreferrer">Facebook</a>
+          <a href="https://www.facebook.com/profile.php?id=61594020520042" target="_blank" rel="noreferrer">Facebook</a>
           <a className="nav-wa" href="https://wa.me/919180129974" target="_blank" rel="noreferrer">WhatsApp</a>
         </nav>
       </div>
