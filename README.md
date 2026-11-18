@@ -2,6 +2,9 @@
 
 A static product catalogue built with Next.js App Router. Products are managed from `src/data/products.ts` and product images live in `public/products/`.
 
+# add dedicated feature section here
+- here
+- 
 ## Run locally
 
 ```bash
